@@ -8,7 +8,7 @@ Epoch:          0
 Summary:        Java bindings for D-Bus
 License:        GPL
 Group:          Development/Java
-URL:            http://dbus.freedesktop.org/
+URL:            https://dbus.freedesktop.org/
 Source0:        http://dbus.freedesktop.org/releases/dbus-java/dbus-java-%{version}.tar.gz
 Requires:       jpackage-utils >= 0:1.6
 Requires:       libmatthew-java
