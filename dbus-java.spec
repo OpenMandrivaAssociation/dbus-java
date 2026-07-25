@@ -3,7 +3,7 @@
 
 Name:           dbus-java
 Version:        2.5.1
-Release:        %mkrel 0.0.1
+Release:        1
 Epoch:          0
 Summary:        Java bindings for D-Bus
 License:        GPL
